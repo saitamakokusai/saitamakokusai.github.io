@@ -1,0 +1,146 @@
+@charset "utf-8";
+body{
+  background-color:white;
+
+}
+
+.top-wrapper h1{
+  letter-spacing: 5px;
+  height:100px;
+  margin:20px auto;
+  color:#b07f72;
+  font-size: 35px;
+  font-family: sans-serif;
+  text-align: center;
+  position: relative;
+  z-index: 10;
+}
+
+.top img{
+  height: 250px;
+  width: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: 0;
+
+}
+
+
+.middle-wrapper{
+  height:450px;
+  background-color: #e1c0b6;
+
+}
+
+.middle-wrapper h1{
+  font-size: 20px;
+  height: 30px;
+  padding: 30px 0 0 30px;
+  font-family: sans-serif;
+  border-bottom: 1px solid #660000;
+}
+
+.middle-wrapper ul{
+  letter-spacing:2px;
+  line-height: 30px;
+  font-size: 15px;
+  padding-top: 10px;
+  text-align: left;
+  font-weight: normal;
+  font-family: sans-serif;
+  background-size: cover;
+  color:#000000;
+  background-color: #e1c0b6;
+}
+
+.bottom-wrapper{
+  height: 900px;
+  background-color: #b9d0b1;
+}
+
+.bottom-wrapper h1{
+  font-size: 20px;
+  height: 30px;
+  padding: 30px 0 0 30px;
+  font-family: sans-serif;
+  border-bottom: 1px solid #660000;
+}
+
+.bottom-wrapper li {
+  letter-spacing:2px;
+  line-height: 30px;
+  font-size: 15px;
+  padding-top: 10px;
+  text-align: left;
+  font-weight: normal;
+  font-family: sans-serif;
+  background-size: cover;
+  color:#000000;
+}
+
+.bottom-wrapper p {
+  margin-left: 20px;
+  letter-spacing:2px;
+  line-height: 20px;
+  font-size: 16px;
+  padding-top: 10px;
+  text-align: left;
+  font-weight: normal;
+  font-family: sans-serif;
+  color:#000000;
+}
+
+.foot-wrapper{
+  height: 500px;
+  background-color: #b4c1d1;
+}
+
+.foot-wrapper h1{
+  font-size: 20px;
+  height: 30px;
+  padding: 30px 0 0 30px;
+  font-family: sans-serif;
+  border-bottom: 1px solid #660000;
+}
+
+.foot-wrapper p{
+  margin-left: 20px;
+  font-size: 16px;
+  letter-spacing:2px;
+  line-height: 20px;
+  padding-top: 10px;
+  text-align: left;
+  font-weight: normal;
+  font-family: sans-serif;
+  color:#000000;
+}
+
+.foot-wrapper li {
+  letter-spacing:2px;
+  line-height: 30px;
+  font-size: 15px;
+  padding-top: 10px;
+  text-align: left;
+  font-weight: normal;
+  font-family: sans-serif;
+  background-size: cover;
+  color:#000000;
+}
+
+footer{
+  height: 150px;
+  background-color: #e5b7be;
+}
+
+footer h1 {
+  padding: 30px 0 0 30px;
+  font-family: sans-serif;
+  font-size: 20px;
+  margin: 20px auto;
+
+}
+
+
+
+}
